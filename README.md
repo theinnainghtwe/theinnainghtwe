@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theinnainghtwe and I hava a bit of experience in teaching Java.
 - 👀 I’m interested in Developing Desktop, Mobile or Web application 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, PHP.
-- 💞️ I’m looking to learn in actual projects.
+- 💞️ I’m looking for to learn in actual projects.
 - 📫 You can contact me at theinnainghtwe87@gmail.com
 
 <!---
